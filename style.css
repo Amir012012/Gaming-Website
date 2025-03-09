@@ -9,7 +9,7 @@
 
 body {
   background-color: #100e0e;
-  box-sizing: 0 0 1000px 50px #000000;
+  box-shadow: 0 0 1000px 50px #000000;
 
   scroll-behavior: smooth;
   font-family: "Lilita One", sans-serif;
